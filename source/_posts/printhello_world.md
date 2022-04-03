@@ -18,17 +18,17 @@ Have you ever wondered how will the computer feel when you say hello to it? Well
 
 ## Table of Contents
 
-[Objects You Need](https://blog.grandswager.repl.co/2022/04/01/printhello_world/#Objects-You-Need-You-can-check-and-uncheck-the-boxes-below)  
+[Objects You Need](https://blog.grandswager.repl.co/post/printhello_world.html#Objects-You-Need-You-can-check-and-uncheck-the-boxes-below)  
   
-[Option #1: Python](https://blog.grandswager.repl.co/2022/04/01/printhello_world/#Option-1-Python)  
+[Option #1: Python](https://blog.grandswager.repl.co/post/printhello_world.html#Option-1-Python)  
   
-[Option #2: JavaScript](https://blog.grandswager.repl.co/2022/04/01/printhello_world/#Option-2-JavaScript)  
+[Option #2: JavaScript](https://blog.grandswager.repl.co/post/printhello_world.html#Option-2-JavaScript)  
   
-[Option #3: HTML](https://blog.grandswager.repl.co/2022/04/01/printhello_world/#Option-3-HTML-HyperText-Markup-Language)  
+[Option #3: HTML](https://blog.grandswager.repl.co/post/printhello_world.html#Option-3-HTML-HyperText-Markup-Language)  
   
-[Option #3: HTML(way number 1)](https://blog.grandswager.repl.co/2022/04/01/printhello_world/#Way-1) 
+[Option #3: HTML(way number 1)](https://blog.grandswager.repl.co/post/printhello_world.html#Way-1) 
   
-[Option #3: HTML(way number 2)](https://blog.grandswager.repl.co/2022/04/01/printhello_world/#Way-2)  
+[Option #3: HTML(way number 2)](https://blog.grandswager.repl.co/post/printhello_world.html#Way-2)  
 
 ## Objects You Need <small><sub>(You can check and uncheck the boxes below)</sub></small>
 
