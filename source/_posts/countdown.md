@@ -7,6 +7,7 @@ author:
 - Benny
 - Credits to w3schools.com
 authorPfp: https://cdn.grandswager.repl.co/94ada1
+category: coding
 ---
 
 ![Result, Full Code at the bottom.](https://cdn.grandswager.repl.co/a07279) 

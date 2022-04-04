@@ -6,6 +6,7 @@ tags:
 author:
 - Benny
 authorPfp: https://cdn.grandswager.repl.co/94ada1
+category: coding
 ---
 
 Generally, we are all aware of stopwatches. There is a possible way to create a stopwatch in Python. Let's start!

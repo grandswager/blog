@@ -7,6 +7,7 @@ tags:
 - html
 author: Benny
 authorPfp: https://cdn.grandswager.repl.co/94ada1
+category: coding
 ---
 
 ## What you will find here
